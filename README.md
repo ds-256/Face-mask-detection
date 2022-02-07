@@ -21,6 +21,6 @@ The Redrawn images obtained from the 1st stage are then feed onto into the binar
 Thus 1 is then reinterpreted into the image with a RGB(0,0,255) vector and the converse case by RGB(255,0,0) vector.
 
 ##  Some Outputs pertaining to the Model
-![alt text](https://github.com/ds-256/Face-mask-detection/blob/main/Image%20and%20video%20samples/nigtlywork.png
+![alt-text](https://raw.githubusercontent.com/ds-256/Face-mask-detection/main/Image%20and%20video%20samples/nightlywork.png)
 
-![alt-text](https://github.com/ds-256/Face-mask-detection/blob/main/Image%20and%20video%20samples/wone.png)
+![alt-text](https://raw.githubusercontent.com/ds-256/Face-mask-detection/main/Image%20and%20video%20samples/Screenshot%20from%202021-06-26%2020-15-29.png)
